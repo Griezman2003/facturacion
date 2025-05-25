@@ -18,7 +18,7 @@ de Ingeniería en Desarrollo y Gestión de Software. Enero - Mayo 2025
 
 ## ⚙️ Instalación paso a paso
 
-### 1. Clona el repositorio
+### 🧱 1. Clona el repositorio
 
 **git clone https://github.com/Griezman2003/facturacion.git**
 
@@ -45,7 +45,7 @@ DB_DATABASE=facturacion_db
 DB_USERNAME=tu_usuario
 DB_PASSWORD=tu_contraseña
 
-### 6. Iniciar el servidor local de Laravel
+### 🚀 6. Iniciar el servidor local de Laravel
 
 - **php artisan serve**
 
