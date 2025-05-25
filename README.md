@@ -38,12 +38,12 @@ de Ingeniería en Desarrollo y Gestión de Software. Enero - Mayo 2025
 
 ### 📂 5. Crear una base de datos
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=facturacion_db
-DB_USERNAME=tu_usuario
-DB_PASSWORD=tu_contraseña
+- **DB_CONNECTION=mysql**
+- **DB_HOST=127.0.0.1**
+- **DB_PORT=3306**
+- **DB_DATABASE=facturacion**
+- **DB_USERNAME=Null**
+- **DB_PASSWORD=Null**
 
 ### 🚀 6. Iniciar el servidor local de Laravel
 
