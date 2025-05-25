@@ -20,8 +20,38 @@ de Ingeniería en Desarrollo y Gestión de Software. Enero - Mayo 2025
 
 ### 1. Clona el repositorio
 
-```bash
-git clone https://github.com/Griezman2003/facturacion.git**
+**git clone https://github.com/Griezman2003/facturacion.git**
 
-cd facturacion
+**cd facturacion**
 
+### 2. Instalar dependencias de Laravel
+
+**composer install**
+
+### 3. Copiar el archivo .env
+
+**cp .env.example .env**
+
+### 4. Generar la clave de la aplicación
+
+**php artisan key:generate**
+
+### 5. Crear una base de datos
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=facturacion_db
+DB_USERNAME=tu_usuario
+DB_PASSWORD=tu_contraseña
+
+### 6. Iniciar el servidor local de Laravel
+
+**php artisan serve**
+
+
+## 👨‍💻 Autor
+Gamaliel Garcia
+Ingeniería en Desarrollo y Gestión de Software
+Email: [tu-email@example.com]
+GitHub: [https://github.com/tu_usuario]
