@@ -1,0 +1,10 @@
+[
+  {
+    "id": "PUE",
+    "descripcion": "Pago en una sola exhibición"
+  },
+  {
+    "id": "PPD",
+    "descripcion": "Pago en parcialidades o diferido"
+  }
+]
