@@ -20,7 +20,7 @@ de Ingeniería en Desarrollo y Gestión de Software. Enero - Mayo 2025
 
 ### 🧱 1. Clona el repositorio
 
-**git clone https://github.com/Griezman2003/facturacion.git**
+- **git clone https://github.com/Griezman2003/facturacion.git**
 
 - **cd facturacion**
 
