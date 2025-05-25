@@ -52,7 +52,6 @@ DB_PASSWORD=tu_contraseña
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 👨‍💻 Autor
-Gamaliel Garcia
-Ingeniería en Desarrollo y Gestión de Software
+ING.Gamaliel Garcia
 Email: [@]
 GitHub: [https://github.com/Griezman2003]
